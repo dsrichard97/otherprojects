@@ -53,9 +53,6 @@ This project showcases my ability to manipulate and analyze complex data sets, d
 - [Exploring London's Travel Network with Snowflake](https://app.datacamp.com/workspace/w/42897788-52cb-46ee-8554-a67074c99db2/edit)
   - In this project, I analyzed a dataset encompassing over a decade of public transport usage in London to understand travel patterns within the city. Utilizing databases like Snowflake, Amazon Redshift, or Google BigQuery, I executed SQL queries to identify the most frequently used modes of transportation, pinpoint times of high activity for the Emirates Airline cable car, and spot uncommon instances of low traffic on the Underground. This investigation provides insights into the dynamics of London's transport network and traveler behavior from 2010 to 2022.
 
-- [Big Data Analysis with BigQuery](https://app.datacamp.com/learn/projects/your-project-link-here)
-  - Utilized BigQuery for analyzing extensive datasets to uncover actionable insights.
-
 Feel free to browse through my repositories and explore the various projects and skills I've developed.
 
 
