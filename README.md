@@ -66,6 +66,10 @@ Key tasks included:
    
 This project showcases my ability to manipulate and analyze complex data sets, derive meaningful insights, and understand trends in the gaming industry. It also highlights my proficiency in essential data analysis techniques such as dataset joining, set theory, and data filtering/grouping.
 
+<p align="center">
+  <img src="pic5.png" width="400" height="250" allow="autoplay">
+</p>
+
 - [Exploring London's Travel Network with Snowflake](https://app.datacamp.com/workspace/w/42897788-52cb-46ee-8554-a67074c99db2/edit)
   - In this project, I analyzed a dataset encompassing over a decade of public transport usage in London to understand travel patterns within the city. Utilizing databases like Snowflake, Amazon Redshift, or Google BigQuery, I executed SQL queries to identify the most frequently used modes of transportation, pinpoint times of high activity for the Emirates Airline cable car, and spot uncommon instances of low traffic on the Underground. This investigation provides insights into the dynamics of London's transport network and traveler behavior from 2010 to 2022.
 
