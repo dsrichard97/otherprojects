@@ -19,11 +19,11 @@ Welcome to my GitHub repository, where I showcase my skills and projects in data
 
 Here are some of the projects I've worked on that demonstrate my ability to analyze financial and other complex data sets.
 
-- [Financial Market Analysis with R](https://app.datacamp.com/learn/projects/your-project-link-here)
-  - Analyzed financial datasets to extract insights and forecast market trends using R.
+- [Modeling the Volatility of US Bond Yields with R](https://app.datacamp.com/learn/projects/your-project-link-here)
+  - In this project, we will delve into the volatility patterns present in U.S. Government Bond Yields, a concept known as volatility clustering, where periods of low and high volatility tend to succeed each other. These patterns are crucial for risk management and making informed investment decisions. We'll be utilizing the GARCH (Generalized AutoRegressive Conditional Heteroskedasticity) model to analyze the statistical characteristics of the financial time series data. The project is designed for those with an understanding of time series analysis and GARCH models, as well as proficiency in using the xts and rugarch packages for analysis and visualization. The bond yield data we'll be working with is sourced from the US Federal Reserve Data Releases, accessible through Quandl.
 
-- [Python for Data Science](https://app.datacamp.com/learn/projects/your-project-link-here)
-  - Completed various projects from DataCamp's curriculum, demonstrating my Python skills in real-world data analysis tasks.
+- [Hot Topics in Machine Leanring with Python](https://github.com/dsrichard97/otherprojects/blob/main/Hottest%20Topics%20in%20ML.pdf)
+  - In this project, I conducted an in-depth analysis of research papers from the Neural Information Processing Systems (NIPS) conference—one of the most prestigious machine learning forums globally—to identify current trends in the field. The project involved handling and examining a substantial text dataset using Python and pandas, along with applying Natural Language Processing techniques via the sklearn library in Python. This analysis not only sheds light on the direction in which machine learning research is heading but also demonstrates the applicability of these data processing methods to other large text-based datasets.
 
 - [Analyze International Debt Statistics with SQL](https://github.com/dsrichard97/otherprojects/blob/main/worldbank%20international%20debt.pdf)
   - This project involves the analysis of international debt data gathered by The World Bank. The aim is to scrutinize the financial amounts (in USD) that developing countries owe under various categories. Key objectives of this analysis include:
