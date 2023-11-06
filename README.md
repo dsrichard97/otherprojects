@@ -5,7 +5,6 @@ Welcome to my GitHub repository, where I showcase my skills and projects in data
 <p>
   <img src="https://img.shields.io/badge/Python_Version-3.10%2B-blue" title="Python Version">
   <img src="https://img.shields.io/github/last-commit/dsrichard97/otherprojects">
-  <img src="https://img.shields.io/github/repo-size//dsrichard97/otherprojects">
   <img src="https://img.shields.io/badge/Type_of_ML-Binary_Classification-orange">
   <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
 
