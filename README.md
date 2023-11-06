@@ -7,8 +7,6 @@ Welcome to my GitHub repository, where I showcase my skills and projects in data
 - **SQL Databases:**
   - **MySQL:** Proficient in writing complex queries, optimizing performance, and database design.
   - **Snowflake:** Experienced in utilizing Snowflake's unique features for large-scale data analytics.
-  - **BigQuery:** Skilled in leveraging Google's BigQuery for analyzing big data in the cloud efficiently.
-  - **Redshift:** Competent in using AWS Redshift for data warehousing and running complex analytical queries.
 
 - **Programming Languages:**
   - **R:** Advanced data analysis, visualization, and statistical modeling.
