@@ -16,7 +16,7 @@ Welcome to my GitHub repository, where I showcase my skills and projects in data
 
 Here are some of the projects I've worked on that demonstrate my ability to analyze financial and other complex data sets.
 <p align="center">
-  <img src="pic1.png" width="800" height="250" allow="autoplay">
+  <img src="pic1.png" width="400" height="250" allow="autoplay">
 </p>
 
 - [Modeling the Volatility of US Bond Yields with R](https://github.com/dsrichard97/otherprojects/blob/main/modelwith_usbond.pdf)
