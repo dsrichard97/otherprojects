@@ -25,8 +25,14 @@ Here are some of the projects I've worked on that demonstrate my ability to anal
 - [Python for Data Science](https://app.datacamp.com/learn/projects/your-project-link-here)
   - Completed various projects from DataCamp's curriculum, demonstrating my Python skills in real-world data analysis tasks.
 
-- [Database Optimization with MySQL](https://app.datacamp.com/learn/projects/your-project-link-here)
-  - Improved database performance and query efficiency on MySQL.
+- [Analyze International Debt Statistics with SQL](https://github.com/dsrichard97/otherprojects/blob/main/worldbank%20international%20debt.pdf)
+  - This project involves the analysis of international debt data gathered by The World Bank. The aim is to scrutinize the financial amounts (in USD) that developing countries owe under various categories. Key objectives of this analysis include:
+
+1. Determining the total sum of debt owed by the nations included in the dataset.
+2. Identifying the country with the largest debt and quantifying this debt.
+3. Calculating the average debt owed by these countries across different indicators of debt.
+   
+The dataset in question spans from 1970 to 2015 and encompasses both national and regional debt figures for a multitude of countries worldwide. This analysis is not only critical for understanding the scale of debt that developing countries face but also for identifying patterns and outliers in international debt statistics.
 
 - [Cloud Data Warehousing with Snowflake and Redshift](https://app.datacamp.com/learn/projects/your-project-link-here)
   - Explored the capabilities of cloud data warehousing using Snowflake and Redshift to handle large-scale datasets.
