@@ -19,7 +19,7 @@ Welcome to my GitHub repository, where I showcase my skills and projects in data
 
 Here are some of the projects I've worked on that demonstrate my ability to analyze financial and other complex data sets.
 
-- [Modeling the Volatility of US Bond Yields with R](https://app.datacamp.com/learn/projects/your-project-link-here)
+- [Modeling the Volatility of US Bond Yields with R](https://github.com/dsrichard97/otherprojects/blob/main/modelwith_usbond.pdf)
   - In this project, we will delve into the volatility patterns present in U.S. Government Bond Yields, a concept known as volatility clustering, where periods of low and high volatility tend to succeed each other. These patterns are crucial for risk management and making informed investment decisions. We'll be utilizing the GARCH (Generalized AutoRegressive Conditional Heteroskedasticity) model to analyze the statistical characteristics of the financial time series data. The project is designed for those with an understanding of time series analysis and GARCH models, as well as proficiency in using the xts and rugarch packages for analysis and visualization. The bond yield data we'll be working with is sourced from the US Federal Reserve Data Releases, accessible through Quandl.
 
 - [Hot Topics in Machine Leanring with Python](https://github.com/dsrichard97/otherprojects/blob/main/Hottest%20Topics%20in%20ML.pdf)
