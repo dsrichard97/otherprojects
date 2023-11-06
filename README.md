@@ -90,4 +90,14 @@ This project showcases my ability to manipulate and analyze complex data sets, d
 
 Feel free to browse through my repositories and explore the various projects and skills I've developed.
 
+---
+All rights reserved to DataCamp and creators.
+
+7. Intellectual property
+7.1 Ownership
+Excluding any User Content that you may provide, you acknowledge that all intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Service and its content, including without limitation any statistical analyses on your data and information resulting from your or your users’ use of the Service (“Statistical Data”) are owned by DataCamp or DataCamp’s suppliers (“Proprietary Materials”). For clarity, DataCamp will only use Statistical Data in an anonymized, deidentified or aggregated form without specifying you as the source of any Statistical Data. Neither these Terms nor your access to the Service transfers to you or any third party any rights, title or interest in or to such Proprietary Materials, except for the limited license in Section 2. DataCamp and its suppliers reserve all rights not granted in these Terms. The License granted you by these Terms is a right of use and access of the Service through the Site and mobile application only, and does not grant to you any right to download or store any Proprietary Materials in any medium, other than (i) that downloadable content that may be provided for certain courses, including exercise files, slides, and sample code, (ii) files that are automatically cached by your web browser for display purposes, and (iii) a copy of the mobile application for your mobile device solely for your own, personal use.
+
+7.2 Rights
+We represent, warrant, and covenant that: (i) we have and will have all rights, titles, licenses, intellectual property, permissions and approvals necessary in connection with our performance under these Terms to grant you the License granted hereunder; and (ii) neither the Service, nor the provision or utilization thereof as contemplated under these Terms, will infringe, violate, trespass or in any manner contravene or breach or constitute the unauthorized use or misappropriation of any intellectual property of any third party, provided that this clause will not apply to the extent any such infringement, violation, trespass or contravention, breach, or unauthorized use or misappropriation of any intellectual property is caused by a combination of the Service with User Content or any materials, software, devices, or other things that are not under Datacamp’s control.
+
 
