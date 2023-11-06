@@ -1,5 +1,4 @@
-# Other Projects
-# Data Analysis Portfolio
+# Other Projects - Data Analysis Portfolio
 
 Welcome to my GitHub repository, where I showcase my skills and projects in data analysis, with a special focus on financial data analytics. Below you'll find highlights of my technical skills and selected projects demonstrating my expertise.
 
